@@ -7,7 +7,7 @@ public class GManager02 : MonoBehaviour {
     public float GameCube_speed = 10;
     public void OnSliderRotation(float value)
     {
-        Debug.Log("hengheng");
+        Debug.Log("henhen");
         GameCube_speed = value;
         Debug.Log("hehe");
     }
