@@ -8,6 +8,7 @@ public class GManager02 : MonoBehaviour {
     public void OnSliderRotation(float value)
     {
         GameCube_speed = value;
+        Debug.Log("hehe");
     }
 	
 	// Update is called once per frame
